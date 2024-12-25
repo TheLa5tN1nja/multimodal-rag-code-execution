@@ -55,7 +55,7 @@ resource cosmosdb 'Microsoft.DocumentDB/databaseAccounts@2024-02-15-preview' = {
     
     locations: [
       {
-        locationName: 'Sweden Central'
+        locationName: 'UAE North'
         // provisioningState: 'Succeeded'
         failoverPriority: 0
         isZoneRedundant: false
